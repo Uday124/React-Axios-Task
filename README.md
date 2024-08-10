@@ -30,7 +30,7 @@
 
 ## Demo Link
 
-  + [Netlify demo link](https://netlify-axios-card.netlify.app)
+  + [Netlify demo link](https://axios-task-info.netlify.app)
 
 # React + Vite
 
